@@ -30,11 +30,7 @@ The initial fine-tuned model achieved **90.3% accuracy** on the validation set, 
 ![Initial Confusion Matrix](confusion_matrix.png)
 
 ### Performance after Optimization
-Further analysis revealed that the model's predictions could be perfected by tuning the decision threshold. This was possible because the model achieved perfect class separation on the validation set, resulting in a Precision-Recall Area Under the Curve (AUC) of 1.000.
-
-![Precision-Recall Curve](precision_recall_curve.png)
-
-By finding the optimal threshold of **0.7707**, the model achieved **100% accuracy** on the validation set, as shown in the final confusion matrix.
+Further analysis revealed that the model's predictions could be perfected by tuning the decision threshold. By finding the optimal threshold of **0.7707** (based on the highest F1-Score), the model achieved **100% accuracy** on the validation set, correctly classifying all 31 samples with zero errors.
 
 ![Improved Confusion Matrix](improved_confusion_matrix.png)
 
