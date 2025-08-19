@@ -41,3 +41,9 @@
   * **Gradio** (for the interactive web demo)
   * **Git & Git LFS** (for version control and handling large model files)
   * **Scikit-learn & Matplotlib/Se seaborn** (for performance evaluation and visualization)
+ 
+  ---
+  
+  ## ## Support This Project
+  
+  SentiMarket is a personal project under continuous development. If you find it valuable and are willing to support my subsequent work (like the next-generation models in the SentiMarket Universe), I will be opening support channels like GitHub Sponsors soon. Thank you for your interest!
