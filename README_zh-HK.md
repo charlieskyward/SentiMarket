@@ -47,3 +47,9 @@
 * **Gradio** (用於互動式Web演示)
 * **Git & Git LFS** (用於版本控制和處理大型模型文件)
 * **Scikit-learn & Matplotlib/Seaborn** (用於性能評估和視覺化)
+
+---
+
+## ## 支持本專案
+
+SentiMarket 是一個持續發展的個人專案。如果您覺得它有價值，並願意支持我的後續開發工作（例如SentiMarket宇宙的下一代模型），我將在近期開通GitHub Sponsors等支持渠道。感謝您的關注！
