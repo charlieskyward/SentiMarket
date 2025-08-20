@@ -1,11 +1,15 @@
+<img src="graphs/sentimarket_logo.png" alt="SentiMarket Logo" width="70" align="left">
+
+# SentiMarket: 基於BERT的金融情緒分析工具
+<br>
+
 [English](README.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-HK.md)
+
 ---
 
-# 📈 SentiMarket: 基於BERT的金融情緒分析工具
+➡️ **[點擊此處體驗實時互動式演示！](https://huggingface.co/spaces/charlieskyward/SentiMarket)** ⬅️
 
 本專案展示了一個為金融新聞情緒分析而微調的BERT模型。該模型在自定義標記的資料集上進行了訓練和優化，以實現高準確度。
-
-➡️ **[點擊此處體驗實時互動式演示！](https://huggingface.co/spaces/charlieskyward/SentiMarket)** ⬅️
 
 ---
 
