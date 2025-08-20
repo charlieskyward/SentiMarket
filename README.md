@@ -1,6 +1,6 @@
 <img src="graphs/sentimarket_logo.png" alt="SentiMarket Logo" width="70" align="left">
 
-# 📈 SentiMarket: A BERT-based Financial Sentiment Analysis Tool
+# SentiMarket: A BERT-based Financial Sentiment Analysis Tool
 <br>
 
 [English](README.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-HK.md)
