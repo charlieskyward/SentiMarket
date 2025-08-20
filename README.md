@@ -15,7 +15,7 @@ This project showcases a BERT model fine-tuned to classify the sentiment of fina
 
 ## Dataset Insights
 
-The model was trained on a custom dataset of 310 financial news headlines, manually labeled to ensure quality. The dataset was intentionally kept balanced between the two classes to prevent model bias, which is a crucial step for building a reliable classifier.
+The model was trained on a custom dataset of 309 financial news headlines, manually labeled to ensure quality. The dataset was intentionally kept balanced between the two classes to prevent model bias, which is a crucial step for building a reliable classifier.
 
 ![Dataset Distribution](graphs/sentiment_distribution.png)
 
