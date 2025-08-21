@@ -56,4 +56,7 @@
 
 ## 支持本项目
 
-SentiMarket 是一个持续发展的个人项目。如果您觉得它有价值，并愿意支持我的后续开发工作（例如SentiMarket宇宙的下一代模型），我将在近期开通GitHub Sponsors等支持渠道。感谢您的关注！
+如果您觉得SentiMarket有价值，并愿意支持我的创作之旅，欢迎通过以下方式支持我的持续开发。您的每一份认可，都是我继续前行的最大动力。
+
+* [❤️️ 通过 GitHub Sponsors 支持](https://github.com/sponsors/charlieskyward)
+* [🅿️ 成为我的 Patreon 支持者](https://www.patreon.com/CharlieSkyward)
