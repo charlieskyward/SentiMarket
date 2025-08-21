@@ -53,4 +53,4 @@ Further analysis revealed that the model's predictions could be perfected by tun
 If you find SentiMarket valuable and enjoy my creative journey, please consider supporting its continuous development. Every bit of support is the greatest motivation for me to keep creating.
 
 * [❤️️ Support me on GitHub Sponsors](https://github.com/sponsors/charlieskyward)
-* [🅿️ Become a Patron on Patreon](https://www.patreon.com/your-patreon-username)
+* [🅿️ Become a Patron on Patreon](https://www.patreon.com/CharlieSkyward)
