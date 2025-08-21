@@ -50,4 +50,7 @@ Further analysis revealed that the model's predictions could be perfected by tun
   
 ## Support This Project
   
-SentiMarket is a personal project under continuous development. If you find it valuable and are willing to support my subsequent work (like the next-generation models in the SentiMarket Universe), I will be opening support channels like GitHub Sponsors soon. Thank you for your interest!
+If you find SentiMarket valuable and enjoy my creative journey, please consider supporting its continuous development. Every bit of support is the greatest motivation for me to keep creating.
+
+* [❤️️ Support me on GitHub Sponsors](https://github.com/sponsors/charlieskyward)
+* [🅿️ Become a Patron on Patreon](https://www.patreon.com/your-patreon-username)
