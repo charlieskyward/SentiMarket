@@ -54,9 +54,12 @@
 
 ---
 
-## 支持本專案
+## 支持這個項目
 
-如果您覺得SentiMarket有價值，並願意支持我的創作之旅，歡迎透過以下方式支持我的持續開發。您的每一份認可，都是我繼續前行的最大動力。
+SentiMarket 目前處於純粹的非營利、開放共享階段。如果您覺得這個專案有價值，現在支持它的最佳方法是在 GitHub 和 Hugging Face 上按讚或按讚，並分享您的想法。
 
-* [❤️️ 透過 GitHub Sponsors 支持](https://github.com/sponsors/charlieskyward)
-* [🅿️ 成為我的 Patreon 支持者](https://www.patreon.com/CharlieSkyward)
+想要了解更多幕後故事和開發日誌，歡迎**免費加入我的 Patreon 社群**，成為 SentiMarket 宇宙的首批見證者之一。
+
+[🅿️ 在 Patreon 上加入我的旅程（免費關注）](https://www.patreon.com/CharlieSkyward)
+
+未來，我可能會在條件允許的情況下重新開放付費支援管道。感謝您的支持！
