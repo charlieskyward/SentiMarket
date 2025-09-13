@@ -54,6 +54,6 @@ SentiMarket is currently in a purely non-profit, open-sharing phase. If you find
 
 To get more in-depth behind-the-scenes stories and development logs, you are welcome to **join my Patreon community for free** and become one of the first witnesses of the SentiMarket Universe.
 
-[🅿️ Join my Journey on Patreon (Free to Follow)](https://www.patreon.com/your-patreon-username)
+[🅿️ Join my Journey on Patreon (Free to Follow)](https://www.patreon.com/CharlieSkyward)
 
 In the future, I may re-enable paid support channels when circumstances permit. Thank you for being here!
