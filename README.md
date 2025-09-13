@@ -49,8 +49,11 @@ Further analysis revealed that the model's predictions could be perfected by tun
 ---
   
 ## Support This Project
-  
-If you find SentiMarket valuable and enjoy my creative journey, please consider supporting its continuous development. Every bit of support is the greatest motivation for me to keep creating.
 
-* [❤️️ Support me on GitHub Sponsors](https://github.com/sponsors/charlieskyward)
-* [🅿️ Become a Patron on Patreon](https://www.patreon.com/CharlieSkyward)
+SentiMarket is currently in a purely non-profit, open-sharing phase. If you find this project valuable, the best way to support it right now is to give it a Star or Like on GitHub and Hugging Face and to share your thoughts.
+
+To get more in-depth behind-the-scenes stories and development logs, you are welcome to **join my Patreon community for free** and become one of the first witnesses of the SentiMarket Universe.
+
+[🅿️ Join my Journey on Patreon (Free to Follow)](https://www.patreon.com/your-patreon-username)
+
+In the future, I may re-enable paid support channels when circumstances permit. Thank you for being here!
